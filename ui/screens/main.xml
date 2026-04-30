@@ -1,0 +1,3 @@
+<view>
+	<label text="Hello LVGL!" align="center" />
+</view>
